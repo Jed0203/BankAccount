@@ -10,4 +10,4 @@ This bank application program contants some basic bank's features, ex:Check bala
 # Useful Website 
 * [Visual Studio Code & Github Set Up](https://code.visualstudio.com/docs/editor/versioncontrol)
 * [Java Tutoiral](https://www.w3schools.com/java/java_operators.asp)
-* [Linkdein}(https://www.linkedin.com/learning)
+* [LinkdeinLearning](https://www.linkedin.com/learning)
